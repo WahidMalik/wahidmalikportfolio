@@ -1,0 +1,57 @@
+[
+  
+  {
+    "name": "Road Rescue",
+    "desc": "My FYP for sending alert to rider victims and ambulace when there is accident happens",
+    "image": "roadrescue",
+    "category": "App Development",
+    "links": {
+      "code": "https://github.com/WahidMalik/RoadRescue"
+    }
+  },
+  {
+    "name": "Feba Friends Music App",
+    "desc": "A music app in which categories show for listening music also admin can add music ",
+    "image": "musicapp",
+    "category": "App Development",
+    "links": {
+      "code": "https://github.com/WahidMalik/FebaFriendsMusicApp"
+    }
+  },
+  {
+    "name": "Home Gym App",
+    "desc": "Home Gym app offline app for persons who want to do gym in home without equipments",
+    "image": "homegym",
+    "category": "App Development",
+    "links": {
+      "code": "https://github.com/WahidMalik/HomeGymApp"
+    }
+  },
+  {
+    "name": "Islamic App",
+    "desc": "islamic App in which user can do religious activity like pray ,quran,also prayer timing show hadith reading",
+    "image": "islamicapp",
+    "category": "App Development",
+    "links": {
+      "code": "https://github.com/WahidMalik/IslamicApp"
+    }
+  },
+  {
+    "name": "Crypto Currency App",
+    "desc": "Crypto currency app in which current price of each coin is showing.",
+    "image": "cryptoapp",
+    "category": "App Development",
+    "links": {
+      "code": "https://github.com/WahidMalik/CryptoApp"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "Weather app in which weather of any search country display.",
+    "image": "weatherapp",
+    "category": "App Development",
+    "links": {
+      "code": "https://github.com/WahidMalik/WeatherApp"
+    }
+  }
+]
